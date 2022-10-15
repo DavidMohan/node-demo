@@ -11,8 +11,13 @@ body {
 
 .navbar {
   width: 100%;
-  padding-top: 10px;
-  padding-buttom: 10px;
+  /* padding-top: 10px;
+  padding-buttom: 10px; */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
 }
 
 .navlinks {
